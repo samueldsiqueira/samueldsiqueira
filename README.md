@@ -10,4 +10,3 @@
 
 [Linkedin](https://www.linkedin.com/in/samuel-d-siqueira-a7b16992/)
 
-<a href="https://www.linkedin.com/in/samuel-d-siqueira-a7b16992/" target="_blank"> Linkedin </a>
