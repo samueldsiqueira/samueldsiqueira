@@ -1,6 +1,5 @@
 ### Olá eu sou Samuel D' Siqueira.
 
-![Linkedin](https://img.shields.io/badge/samueldsiqueira-linkedin-blue)
 
 
 - 🔭 Eu trabalho a 7 anos na Indra sou Analista de Suporte Nivel 2, quero me realocar no mercado de trabalho como DEV.
