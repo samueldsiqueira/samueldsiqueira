@@ -8,7 +8,7 @@ TypeScript, Javascript, HTML, CSS, React, Nextjs...
 
 
 ## 🚀 Sobre mim
-Meu nome é Samuel D'Siqueira e sou desenvolvedor Front-End. Comecei minha historia na tecnologia como jogador de MMO, onde descobri um fórum com o código do jogo que eu jogava. Decidi me aventurar e, com muita leitura e entendimento, consegui deixar o código funcionando algumas vezes.
+Meu nome é Samuel D' Siqueira e sou desenvolvedor Front-End. Comecei minha historia na tecnologia como jogador de MMO, onde descobri um fórum com o código do jogo que eu jogava. Decidi me aventurar e, com muita leitura e entendimento, consegui deixar o código funcionando algumas vezes.
 
 Depois disso, trabalhei com manutenção e suporte em empresas de telecomunicações, porém, para evoluir e entender melhor os sistemas e problemas, decidi estudar mais sobre o assunto e fiz o bootcamp da Kenzie Academy, onde me formei como Front-End. Atualmente, estou estagiando na TIM Brasil, buscando conhecer mais sobre o mundo da tecnologia e contribuir para o sucesso da equipe e empresa.
 
