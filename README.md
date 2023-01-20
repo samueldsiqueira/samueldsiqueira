@@ -13,14 +13,14 @@ Meu nome é Samuel D' Siqueira e sou desenvolvedor Front-End. Comecei minha hist
 Depois disso, trabalhei com manutenção e suporte em empresas de telecomunicações, porém, para evoluir e entender melhor os sistemas e problemas, decidi estudar mais sobre o assunto e fiz o bootcamp da Kenzie Academy, onde me formei como Front-End. Atualmente, estou estagiando na TIM Brasil, buscando conhecer mais sobre o mundo da tecnologia e contribuir para o sucesso da equipe e empresa.
 
 
-## 🔗 Links
+## 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samueldsiqueira.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-siqueira)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samueldsiqueira)
 
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho como estagiário atualmente na TIM Brasil
+## 
+👩‍💻 Trabalho como estagiário atualmente na TIM Brasil;
 
 🧠 Estou aprendendo:
 - Introdução ao back-end e NodeJS;
