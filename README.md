@@ -22,8 +22,7 @@ Depois disso, trabalhei com manutenção e suporte em empresas de telecomunicaç
 ## 
 👩‍💻 Trabalho como estagiário atualmente na TIM Brasil;
 
-##
-🧠 Estou aprendendo:
+## 🧠 Estou aprendendo:
 - Introdução ao back-end e NodeJS;
 - Express.
 -  Banco de dados relacional (PostgreSQL);
