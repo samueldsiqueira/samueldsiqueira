@@ -19,10 +19,7 @@ Depois disso, trabalhei com manutenção e suporte em empresas de telecomunicaç
 
 
 
-## 🧠 Estou aprendendo:
-- Introdução ao back-end e NodeJS;
-- Express.
--  Banco de dados relacional (PostgreSQL);
+
 
 ##
 💬 Me pergunte sobre
