@@ -1,28 +1,36 @@
-# Hello, I'm Samuel D' Siqueira! 👋
+# Hi, I'm Samuel D' Siqueira! 👋
 
-## 🛠 Skills
-TypeScript, JavaScript, HTML, CSS, React, Next.js...
+Software developer and Systems Analyst from Rio de Janeiro, Brazil. I build web systems and process automations, from requirements analysis to implementation and integration. Today I work on healthcare systems and AI agents.
 
 ## 🚀 About Me
-My name is Samuel D' Siqueira, and I'm a Front-End Developer. My journey in technology began as a player of MMO games, where I stumbled upon a forum with the source code of the game I was playing. I decided to dive in and, through a lot of reading and learning, managed to get the code working on several occasions.
+My journey in technology began as a player of MMO games: on a forum, I found the source code of the game I was playing, dove in, and through a lot of reading and testing got it running on several occasions.
 
-Afterward, I worked in maintenance and support roles at telecommunications companies. However, to further my understanding of systems and problems, I decided to delve deeper into the subject and completed the Kenzie Academy bootcamp, where I graduated as a Front-End Developer. Currently, I am working as an intern at TIM Brasil, seeking to expand my knowledge of the tech world and contribute to the success of the team and company.
+From 2014 to 2022 I worked at Indra, first as a Technical Support Analyst and, from 2017, as a Level 2 Support Analyst, providing specialized support for Microsoft software to a multinational with more than 50,000 employees and users in Brazil, Latin America, the US and Europe.
 
-## 👩‍💻 Current Job
-I am currently working as an intern at TIM Brasil.
+To understand systems from the inside, I studied Systems Analysis and Development at Universidade Candido Mendes (2022–2024). Meanwhile, as a Software Development Intern at TIM Brasil (2022–2024), I automated repetitive telecom engineering processes with Python and JavaScript, using Playwright and Selenium for web scraping.
+
+## 💼 Current Work
+- **Systems Analyst at SENAI Soluções Digitais** (since Nov 2024): technical analysis, system integrations and the evolution of healthcare systems.
+- **AI agents:** integrating advanced solutions, including AI agents, to optimize processes.
+- **Consulting:** software projects for third parties.
+
+## 🎓 Education
+- **Universidade Candido Mendes**: Technology degree in Systems Analysis and Development (Tecnologia em Análise e Desenvolvimento de Sistemas), Feb 2022 – Jul 2024.
+
+## 🛠 Skills
+- **Languages:** TypeScript, JavaScript, Python, PHP, HTML, CSS
+- **Frameworks & runtime:** React, Next.js, Vue.js, Node.js, FastAPI
+- **Automation & testing:** Playwright, Puppeteer, Selenium
+- **Data & infrastructure:** PostgreSQL, SQL Server, MariaDB, RabbitMQ, Docker, Git, Linux
+
+## 💬 Ask Me About
+System integrations · AI agents · Process automation · Web scraping · Next.js
 
 ## 🌐 Connect with Me
 - [Portfolio](https://samueldsiqueira.com/)
 - [LinkedIn](https://www.linkedin.com/in/samuel-d-siqueira)
 - [Twitter](https://twitter.com/samueldsiqueira)
 
-## 💬 Ask Me About
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
 ## 📫 How to Contact Me
-- [Gmail](mailto:samueldsiqueira@gmail.com)
+- [Email](mailto:samueldsiqueira@gmail.com)
 - [Telegram](https://t.me/SamuelDSiqueira)
