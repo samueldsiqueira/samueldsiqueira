@@ -1,6 +1,6 @@
 # Hi, I'm Samuel D' Siqueira! 👋
 
-Software developer and Systems Analyst from Rio de Janeiro, Brazil. I build web systems and process automations, from requirements analysis to implementation and integration. Today I work on healthcare systems and AI agents.
+Software developer and Systems Analyst from Rio de Janeiro, Brazil. I build web systems and process automations, from requirements analysis to implementation and integration. Today I work on healthcare and education systems and AI agents.
 
 ## 🚀 About Me
 My journey in technology began as a player of MMO games: on a forum, I found the source code of the game I was playing, dove in, and through a lot of reading and testing got it running on several occasions.
@@ -11,6 +11,7 @@ To understand systems from the inside, I studied Systems Analysis and Developmen
 
 ## 💼 Current Work
 - **Systems Analyst at SENAI Soluções Digitais** (since Nov 2024): technical analysis, system integrations and the evolution of healthcare systems.
+- **Education projects (2026):** Moodle, virtual reality labs and simulators for education built with Unity.
 - **AI agents:** integrating advanced solutions, including AI agents, to optimize processes.
 - **Consulting:** software projects for third parties.
 
@@ -20,11 +21,13 @@ To understand systems from the inside, I studied Systems Analysis and Developmen
 ## 🛠 Skills
 - **Languages:** TypeScript, JavaScript, Python, PHP, HTML, CSS
 - **Frameworks & runtime:** React, Next.js, Vue.js, Node.js, FastAPI
+- **AI tools:** Claude Code, Kiro, Gemini, Antigravity
+- **Education & VR:** Moodle, Unity
 - **Automation & testing:** Playwright, Puppeteer, Selenium
 - **Data & infrastructure:** PostgreSQL, SQL Server, MariaDB, RabbitMQ, Docker, Git, Linux
 
 ## 💬 Ask Me About
-System integrations · AI agents · Process automation · Web scraping · Next.js
+System integrations · AI agents · Process automation · Web scraping · Next.js · Moodle · Unity
 
 ## 🌐 Connect with Me
 - [Portfolio](https://samueldsiqueira.com/)
