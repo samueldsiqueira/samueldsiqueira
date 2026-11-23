@@ -6,7 +6,7 @@
 
 Rio de Janeiro, Brazil
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://samueldsiqueira.com/](https://my-landing-olive.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=white)](https://my-landing-olive.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-d-siqueira)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/samueldsiqueira)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SamuelDSiqueira)
